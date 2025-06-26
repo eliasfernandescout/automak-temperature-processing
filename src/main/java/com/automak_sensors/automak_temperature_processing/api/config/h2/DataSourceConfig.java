@@ -1,4 +1,4 @@
-package com.automak_sensors.automak_temperature_processing.api.config;
+package com.automak_sensors.automak_temperature_processing.api.config.h2;
 
 import org.springframework.boot.autoconfigure.jdbc.DataSourceProperties;
 import org.springframework.boot.context.properties.ConfigurationProperties;

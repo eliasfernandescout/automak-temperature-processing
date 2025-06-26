@@ -1,4 +1,4 @@
-package com.automak_sensors.automak_temperature_processing.api.config;
+package com.automak_sensors.automak_temperature_processing.api.config.h2;
 
 import org.h2.tools.Server;
 import org.springframework.context.annotation.Bean;
